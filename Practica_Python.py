@@ -11,7 +11,3 @@ y = "Dijo textualmente: 'Me quedo en casa'"
 
 print(x)
 print(y)
-
-ints_and_strings = [1, 2, 3, "four", "five"]
-
-print(ints_and_strings)
